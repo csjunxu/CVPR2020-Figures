@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-22T02:07:30.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="k8Fyq9M3IFT9V0M3hPn8" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-22T02:11:06.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="ZX010G6LPLvf3Q9BoqSl" version="12.2.9" type="github" pages="1">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="641" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="cC2PWWgy3VqxMupcUktH-96" value="$$D^{s}$$" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#FFFFCC;fontSize=16;rounded=1;comic=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="295" width="50" height="31" as="geometry"/>
         </mxCell>
-        <mxCell id="cC2PWWgy3VqxMupcUktH-97" value="$$h_{\ell}$$" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#CCFFFF;strokeColor=#000000;rounded=1;fontSize=16;shadow=0;" parent="1" vertex="1">
+        <mxCell id="cC2PWWgy3VqxMupcUktH-97" value="$$h_{(\ell)}$$" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#CCFFFF;strokeColor=#000000;rounded=1;fontSize=16;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="149" y="261" width="60" height="36" as="geometry"/>
         </mxCell>
         <mxCell id="cC2PWWgy3VqxMupcUktH-98" value="$$g_1(\cdot)$$" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=2;fillColor=#FFFFCC;rounded=1;shadow=0;fontSize=16;" parent="1" vertex="1">
